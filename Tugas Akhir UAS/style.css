@@ -1,0 +1,8 @@
+.medsos{
+    padding: 5px 0;
+}
+.medsos ul li{
+    display: inline-block;
+    color: #fff;
+    margin-right: 10px;
+}
